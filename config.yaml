@@ -1,7 +1,7 @@
 baseURL: http://example.org/
 languageCode: en-us
 defaultContentLanguage: en
-title: "Toha"
+title: "Data Science Sunday"
 theme: "toha"
 
 ## Manage languages
@@ -32,7 +32,7 @@ languages:
     languageName: 中文
     weight: 8
 
-## Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
+## Force a locale to be used, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 #DefaultContentLanguage: fr
 
 ## Allow raw html in markdown file
