@@ -6,13 +6,11 @@ greeting: "Hi, I am"
 image: "images/author/john.png"
 ## give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
+  email: "something@something.com"
+  # phone: "+0123456789"
 
 ## some summary about what you do
 summary:
-  - I am a father,
   - I am a husband,
-  - and I am a scientist.
-  - I love data.
-  - I work in bioinformatics.
+  - I am a father,
+  - and I am a data nerd.
