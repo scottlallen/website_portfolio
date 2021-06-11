@@ -11,39 +11,36 @@ section:
 ## Your Skills.
 ## Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Rstudio
+  logo: "/images/sections/skills/Rlogo.svg"
+  summary: "I have extensive experience analysing data in R. Thanks to Rstudio, tidyverse, data.table, and reticulate (python integration), R is now the primary tool I use for entire pipelines. From SQL data extraction, cleaning, and exploration, to analysis and presentation."
+  url: "https://www.rstudio.com/"
 
-- name: Go Development
-  logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Python
+  logo: "/images/sections/skills/Python-logo-notext.svg"
+  summary: "I have familiarity with Python, in particular scikit-learn for machine learning. I typically run Python code from within R notebooks, as it is my development environment of choice."
+  url: "https://www.python.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Docker
-  logo: "/images/sections/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: "/images/sections/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Linux
+- name: Unix
   logo: "/images/sections/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "I have extensive experience using different flavours of Unix as the main operating system on workstations and High Performace Clusters (HPCs). I am capable of writing bash/shell scripts for pipeline development."
+  url: "https://www.opengroup.org/membership/forums/platform/unix"
+
+- name: Cloud computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "I have utilised cloud computing for many years. In particular, the use of private High Permormance Cluster (HPCs) via the Portable Batch System (PBS). I also have some experience using Hadoop and Spark."
+  url: "https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/"
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "I am experienced with git-based development, in particular Github."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: "/images/sections/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+# - name: Prometheus
+#   logo: "/images/sections/skills/prometheus.png"
+#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#   url: "https://prometheus.io/"
+# 
+# - name: C++
+#   logo: "/images/sections/skills/c++.png"
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
