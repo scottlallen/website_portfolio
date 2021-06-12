@@ -11,29 +11,30 @@ section:
 ## Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: The University of Queensland, Brisbane, Australia
+    url: "https://www.uq.edu.au/"
+    location:
     ## company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Postdoctoral Research Fellow
+    start: Jan 2020
     ## don't provide end date if you are currently working there. It will be replaced by "Present"
     #end: Dec 2020
     ## give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Data analysis.
+    - Design, develop and manage experiments.
+    - Publish results and present at conferences.
+    - Supervise postgraduate students.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
 
 - company:
     name: PreExample Co.
