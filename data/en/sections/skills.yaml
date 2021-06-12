@@ -18,7 +18,7 @@ skills:
 
 - name: Python
   logo: "/images/sections/skills/Python-logo-notext.svg"
-  summary: "I have familiarity with Python, in particular scikit-learn for machine learning. I typically run Python code from within R notebooks, as it is my development environment of choice."
+  summary: "I have familiarity with Python, in particular, scikit-learn for machine learning. I typically run Python code from within R notebooks, as it is my development environment of choice."
   url: "https://www.python.org/"
 
 - name: Unix
@@ -31,16 +31,26 @@ skills:
   summary: "I have utilised cloud computing for many years. In particular, the use of private High Permormance Cluster (HPCs) via the Portable Batch System (PBS). I also have some experience using Hadoop and Spark."
   url: "https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/"
 
-- name: Git
-  logo: "/images/sections/skills/git.png"
-  summary: "I am experienced with git-based development, in particular Github."
-  url: "https://git-scm.com/"
+- name: SQL
+  logo: "/images/sections/skills/SQL.png"
+  summary: "I am familiar with SQL and have some experience querying databases using R's DBI package. When possible, I prefer to use R's dbplyr as the linear piping structure can make code review of the complicated logic much easier than reviewing the complex SQL alternative"
+  url: "https://powerbi.microsoft.com/en-us/"
+
+- name: Data visualisation
+  logo: "/images/sections/skills/microsoft_power_bi.png"
+  summary: "I have trained myself to use Microsoft Power BI for data visualisation and dashboard production. While Power BI is great for fast graph production, I find R's ggplot2 package to be far more powerful. Fortunately, R is intergrated into Power BI and the two can work well together."
+  url: "https://powerbi.microsoft.com/en-us/"
+
+# - name: Git
+#   logo: "/images/sections/skills/git.png"
+#   summary: "I am experienced with git-based development, in particular Github."
+#   url: "https://git-scm.com/"
 
 # - name: Prometheus
 #   logo: "/images/sections/skills/prometheus.png"
 #   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
 #   url: "https://prometheus.io/"
-# 
+
 # - name: C++
 #   logo: "/images/sections/skills/c++.png"
 #   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
